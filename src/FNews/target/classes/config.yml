@@ -1,0 +1,6 @@
+announcement-format:
+  top: "&b◜---------------------------------◝"
+  prefix: "&6Broadcast&b &7»"
+  message: "&6by &7» %player%"
+  bottom: "&b◟---------------------------------◞"
+  sound: "ENTITY_EXPERIENCE_ORB_PICKUP" # SOUNDS ONLY AT https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html

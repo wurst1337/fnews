@@ -5,7 +5,7 @@
 ### **(will be added in FNEWS 5.0 release):​**
 - **/fnews-timer** - Adds not just a timer, but a timer that can be placed in: chat, actionbar, bossbar or even just a title on the screen in which you can change the color or shape in the configuration.​
 - **/fnews-clearchat** - Clear game chat.
-- **/fnews-title**  - Makes a 
+- **/fnews-title**  - Makes a title.
 ## Perms
 - fnews.use    | /fnews
 - fnews.reload | /fnews-reload
@@ -13,7 +13,9 @@
 - fnews.clearchat | /fnews-clearchar
 - fnews.title | /fnews.title
 - fnews.allgrants | All plugin perms (*)
-
+## Tested Minecraft Versions
+Plugin works on Spigot and Paper with minecraft versions:
+> 1.16.5 - 1.20.1 [JDK 8]
 ## Links
 > [spigotmc.com](https://www.spigotmc.org/resources/fnews.114530/)
 > 

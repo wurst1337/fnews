@@ -1,13 +1,15 @@
-wurst1337 software licence.
+Free license from the author wurst1337 for FOSS software. Version 1.1 from 30.10.2025.
 
-This license is used for software.
-This license grants the freedom to distribute, modify this software and its source code, and use it in any way.
-Modification of the source code and its further distribution is also available without any restrictions.
-Attribution of the original author is also not required.
-This program and its source code can be used in any projects, including commercial ones, without any restrictions; disclosure of the source code is not mandatory.
-The author voluntarily waives all copyright.
+Copyright (C) MCFireStudio Team, 2025
 
-This license has no conditions. You can freely use this program and its source code. Without attribution.
-
-The program and its source code are distributed "AS IS" and its creators/developers are not responsible for its security and correct operation,
-as well as any possible damage, loss of important data, etc. Use this program only at your own risk.
+License Terms:
+1) Permissions: This license is intended for the distribution of ("software") and ("software source code").
+It freely permits editing and distributing the program and its source code. Using the program and its source code is permitted in any projects, 
+including commercial ones, without any restrictions, even without disclosing the program's source code.
+The source code of this software can be used as a basis for any of your projects without restrictions.
+2) Copyright: The author and developers of the program voluntarily waive all rights to the program and its source code.
+Attribution is not mandatory, but if you wish, you can indicate the author by specifying their copyright as indicated at the beginning of this license.
+3) Disclaimer of Liability: The author and developers of this program (and its source code) distribute it "AS IS" and will not be held liable in any case,
+including claims for damages, losses, loss of important data, etc. Use the program and its source code at your own risk.
+4) Conditions: This license does not require any conditions from the author and developers of the program or from the creators of "forks" of this program based on the source code.
+5) Usage: This license can be used in any open-source projects, for example, in repositories.

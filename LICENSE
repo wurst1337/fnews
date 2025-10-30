@@ -1,15 +1,27 @@
-Free license from the author wurst1337 for FOSS software. Version 1.1 from 30.10.2025.
+Version [FNAPPL] 1.3 LTS | [github.com/wurst1337/vargum-license]
 
 Copyright (C) MCFireStudio Team, 2025
 
+Note:
+This license is an independent, non-official open source license
+and is NOT OSI-approved.
+
+Terminology:
+"Author" - The author is the individual or legal entity that owns the software to which this license applies.
+"Software" - The program that belongs to the author.
+"Contributor" - A person who directly and voluntarily participated in the development of the software by editing the source code.
+
 License Terms:
-1) Permissions: This license is intended for the distribution of ("software") and ("software source code").
-It freely permits editing and distributing the program and its source code. Using the program and its source code is permitted in any projects, 
-including commercial ones, without any restrictions, even without disclosing the program's source code.
-The source code of this software can be used as a basis for any of your projects without restrictions.
-2) Copyright: The author and developers of the program voluntarily waive all rights to the program and its source code.
-Attribution is not mandatory, but if you wish, you can indicate the author by specifying their copyright as indicated at the beginning of this license.
-3) Disclaimer of Liability: The author and developers of this program (and its source code) distribute it "AS IS" and will not be held liable in any case,
-including claims for damages, losses, loss of important data, etc. Use the program and its source code at your own risk.
-4) Conditions: This license does not require any conditions from the author and developers of the program or from the creators of "forks" of this program based on the source code.
-5) Usage: This license can be used in any open-source projects, for example, in repositories.
+1) Permissions:
+   The author grants everyone full, unrestricted permission to use, distribute, modify, combine, and publish the software and its
+   source code anywhere and anytime, including for commercial purposes, without limitations. The contributor automatically agrees
+   that their changes are licensed under the same terms.
+
+2) Copyright and Patent Rights:
+   The author grants a perpetual, worldwide, royalty-free license to use, modify, distribute, and incorporate the software and any
+   related patents without restriction. This right extends to all users and derivative works.
+
+3) Disclaimer and Trademarks:
+   The software and its source code are provided "AS IS" — without warranties or guarantees of any kind. The authors and contributors
+   are not liable for any damages, data loss, or cosmic disturbances caused by its use. Use at your own risk.
+   This license does not grant permission to use the author's trademarks, names, or logos.

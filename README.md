@@ -1,10 +1,10 @@
-# FNews
+# 🗞️ FNews
 Simple Minecraft broadcast plugin.
 
 This repository is the main, original, and primitive branch of the FNews plugin, created by wurst1337.
 
-> [!IMPORTANT]
-> After a long time, the project has been restored from the archives and is actively supported again.
+> [!WARNING]
+> We want to warn you that this plugin is practically useless garbage. This plugin was my first attempt at writing plugins using the Spigot API. Please consider more popular and accepted projects. There is a 95% chance that this plugin will no longer be supported or updated, so please do not use it.
 
 ## 🚀 How to install
 1) Download and install Java JDK 21 → [(Windows link)](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe).

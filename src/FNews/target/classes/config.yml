@@ -3,4 +3,35 @@ announcement-format:
   prefix: "&6Broadcast&b &7»"
   message: "&6by &7» %player%"
   bottom: "&b◟---------------------------------◞"
-  sound: "ENTITY_EXPERIENCE_ORB_PICKUP" # SOUNDS ONLY AT https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html
+  sound: "ENTITY_EXPERIENCE_ORB_PICKUP"
+
+auto-messages:
+  cooldown: 10m
+  sound: ENTITY_EXPERIENCE_ORB_PICKUP # SOUNDS ONLY AT https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html
+
+  message_1:
+    - "&b---------------------------------"
+    - "&eThis server is using FNews 5.0!"
+    - "&7https://www.spigotmc.org/resources/fnews.114530/"
+    - "&b---------------------------------"
+
+  message_2:
+    - "&a---------------------------------"
+    - "&fServer is &aONLINE"
+    - "&7Enjoy the game!"
+    - "&a---------------------------------"
+
+auto-titles:
+  cooldown: 5m
+  sound: ENTITY_PLAYER_LEVELUP # SOUNDS ONLY AT https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html
+  fade-in: 10 # Title fade-in animation speed
+  stay: 40 # The value of how many bodies will remain on the screen
+  fade-out: 10 # Title fade-out animation speed
+
+  title_1:
+    title: "&6server.com"
+    subtitle: "&7welcome to server.com"
+
+  title_2:
+    title: "&cWarning"
+    subtitle: "&fTest message"

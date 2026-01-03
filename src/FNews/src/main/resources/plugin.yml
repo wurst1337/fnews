@@ -1,16 +1,12 @@
 name: FNews
-version: '${project.version}'
-main: org.fnews.main
-api-version: '1.16'
-prefix: FNews
-load: STARTUP
-authors: [wurst1337 aka firestudio team]
+version: 5.0
+main: org.fnews.FNews
+api-version: '1.20.1'
+authors: [MCFireStudioTeam]
 description: A minecraft chat plugin
-website: www.shedevro.space
+website: https://github.com/MCFireStudio/fnews.git
 commands:
   fnews:
-    description: Send a news message
     permission: fnews.use
   fnews-reload:
-    description: Reload the plugin and config
     permission: fnews.reload

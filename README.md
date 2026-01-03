@@ -1,7 +1,7 @@
 # 🗞️ FNews
 Simple Minecraft broadcast plugin.
 
-This repository is the main, original, and primitive branch of the FNews plugin, created by wurst1337.
+This repository is the main, original, and primitive branch of the FNews plugin, created by MCFireStudio.
 
 > [!WARNING]
 > We want to warn you that this plugin is practically useless garbage. This plugin was my first attempt at writing plugins using the Spigot API. Please consider more popular and accepted projects. There is a 95% chance that this plugin will no longer be supported or updated, so please do not use it.
@@ -37,11 +37,6 @@ This plugin has been officially tested and is known to work on vanilla `Spigot` 
 
 Please note that **Java 21** is required to run this plugin.
 
-## 🤝 Support
-If you find any bugs, want to suggest improvements, have questions, or need help, please contact the developer:
-- Telegram: [@corndev_w1337](https://t.me/corndev_w1337)
-- Discord: `arenda_mam_1337`
-
 ## 🔗 Links
 The plugin is available for download on [SpigotMC](https://www.spigotmc.org/resources/fnews.114530/).
 
@@ -52,6 +47,8 @@ A little extra information never hurts:
 - 🪶 Native Minecraft (API) version: `1.16`
 
 ## ⚖️ License and Copyright
+Copyright (c) 2026 MCFireStudio (wurst1337, K1witt)
+
 Copyright (c) 2025 wurst1337
 
 This project is distributed under the terms of the [MIT License](https://github.com/wurst1337/fnews/blob/main/LICENSE).

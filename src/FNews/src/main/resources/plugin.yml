@@ -1,0 +1,13 @@
+name: FNews
+version: 5.0.b
+main: org.fnews.FNews
+api-version: '1.16'
+authors: [MCFireStudioTeam]
+description: A minecraft chat plugin
+commands:
+  fnews:
+    permission: fnews.use
+  fnews-reload:
+    permission: fnews.reload
+  timer:
+    permission: fnews.timer

@@ -22,9 +22,14 @@ To manage permissions, we strongly recommend using the free and open-source plug
 | `/fnews-reload` | `fnews.reload` |
 
 ## 🧪 Tested Minecraft Versions
-This plugin has been officially tested and is known to work on vanilla `Spigot` and `Paper` servers running versions `1.16.5 - 1.20.1`.
 
-Please note that **Java 17** is recommended to run this plugin.
+| Minecraft version | Kernel                          | Java version                                       | Is Working? | Host           |
+|-------------------|---------------------------------|----------------------------------------------------|-------------|----------------|
+| `1.21.11`         | `paper-1.21.11-74.jar `         | Adoptium Temurin Java 21 OpenJDK `(21.0.9+10-LTS)` | Yes ✅       | Windows 11 x64 |
+| `1.20.1`          | `paper-1.20.1-196-mojang.jar`   | Oracle Java 17 JDK `(17.0.12)`                     | Yes ✅       | Windows 11 x64 |
+| `1.17.1`          | `paper-1.17.1-411.jar`          | Oracle Java 16 `(16.0.2)`                          | Yes ✅       | Windows 11 x64 |
+| `1.16.5`          | `paper-1.16.5-794.jar`          | Oracle Java 16 `(16.0.2)`                          | Yes ✅       | Windows 11 x64 |
+| `1.16.5`          | `paper-1.16.5-794.jar`          | Oracle Java 8 `(1.8.0_471)`                        | Yes ✅       | Windows 11 x64 |
 
 ## 🔗 Links
 The plugin is available for download on [SpigotMC](https://www.spigotmc.org/resources/fnews.114530/).

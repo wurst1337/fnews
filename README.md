@@ -1,9 +1,14 @@
-<img src="https://private-user-images.githubusercontent.com/210436210/440965177-17f94cff-dd3d-4af8-ae26-c9cd10e16096.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc0NTQ1NzksIm5iZiI6MTc2NzQ1NDI3OSwicGF0aCI6Ii8yMTA0MzYyMTAvNDQwOTY1MTc3LTE3Zjk0Y2ZmLWRkM2QtNGFmOC1hZTI2LWM5Y2QxMGUxNjA5Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDEwM1QxNTMxMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01OWVkNjgyMjEzZTYzNTM5NzFlMmQ2MzM4MjlhMGY5ZDJhNzJmZGM1MDYzYjczNGQzYTBjOThhNTBlOGM4ZTRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.JeS6QVznHxfi7t3kCnEos8gT4IZHLKoAwvbnJD2Y1GA" height="64">
+<img width="100" height="100" alt="440965177-17f94cff-dd3d-4af8-ae26-c9cd10e16096" src="https://github.com/user-attachments/assets/4fec68d5-8ea5-43fe-8adb-2476a0b1df6a" />
 
-# FNews 5.0
-Simple Minecraft broadcast plugin.
+# FNews
+Advanced Minecraft broadcast plugin.
 
 This repository is the main, original, and primitive branch of the FNews plugin, created by wurst1337 and maintaned by MCFireStudioTeam (wurst1337, K1witt).
+
+> [!WARNING]
+> Following the release of the latest version (5.0.b), the project has officially entered a **freeze phase** and is **archived**. Patches for improvements and vulnerability fixes **will NOT be released** in the near future (at least 6 months).
+> 
+> A repository on Github is more likely to be archived.
 
 ## ⭐ Features
 - **/FNews:** New function for announcements on the server that will not only send a detailed message but also allow you to work with colors and sound of sending and name of a sender​
@@ -33,12 +38,7 @@ To manage permissions, we strongly recommend using the free and open-source plug
 
 ## 🔗 Links
 The plugin is available for download on [SpigotMC](https://www.spigotmc.org/resources/fnews.114530/).
-
-## 🤓 Nerd information
-A little extra information never hurts:
-- 🔨 Building system: `Maven` (`3.8.1`)
-- ♨️ Java version: `17 JDK`
-- 🪶 Native Minecraft (API) version: `1.16`
+Plugin can be also used on **aternos.org** (officially added).
 
 ## ⚖️ License and Copyright
 Copyright (c) 2026 MCFireStudio (wurst1337, K1witt)

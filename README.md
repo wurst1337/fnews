@@ -1,6 +1,14 @@
 <img width="100" height="100" alt="440965177-17f94cff-dd3d-4af8-ae26-c9cd10e16096" src="https://github.com/user-attachments/assets/4fec68d5-8ea5-43fe-8adb-2476a0b1df6a" />
 
 # FNews
+![GitHub last commit](https://img.shields.io/github/last-commit/wurst1337/fnews)
+![GitHub License](https://img.shields.io/github/license/wurst1337/fnews?style=flat)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/wurst1337/fnews/total)
+
+<kbd>[🗄️ Last Github release](https://github.com/wurst1337/fnews/releases/latest)</kbd>
+<kbd>[🌿 Spigot plugin page](https://www.spigotmc.org/resources/fnews.114530)</kbd>
+<kbd>[📜 Plugin wiki](https://www.spigotmc.org/resources/fnews.114530)</kbd>
+
 Advanced Minecraft broadcast plugin.
 
 This repository is the main, original, and primitive branch of the FNews plugin, created by wurst1337 and maintaned by MCFireStudioTeam (wurst1337, K1witt).

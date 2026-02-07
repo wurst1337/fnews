@@ -3,7 +3,7 @@
 # FNews
 ![GitHub last commit](https://img.shields.io/github/last-commit/wurst1337/fnews)
 ![GitHub License](https://img.shields.io/github/license/wurst1337/fnews?style=flat)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/wurst1337/fnews/total)
+![Spiget Downloads](https://img.shields.io/spiget/downloads/114530)
 
 <kbd>[🗄️ Last Github release](https://github.com/wurst1337/fnews/releases/latest)</kbd>
 <kbd>[🌿 Spigot plugin page](https://www.spigotmc.org/resources/fnews.114530)</kbd>

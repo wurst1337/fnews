@@ -43,6 +43,11 @@ To manage permissions, we strongly recommend using the free and open-source plug
 The plugin is available for download on [SpigotMC](https://www.spigotmc.org/resources/fnews.114530/).
 Plugin can be also used on **aternos.org** (officially added).
 
+## 💰 Donate
+If in you opinion bot is great, you can make donation to developer:
+- Ukraine/World: [[Monobank Jar]](https://send.monobank.ua/jar/66eAZZKCzu)
+
+
 ## ⚖️ License and Copyright
 Copyright (c) 2026 MCFireStudio (wurst1337, K1witt)
 
